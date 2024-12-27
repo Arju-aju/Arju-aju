@@ -1,167 +1,141 @@
-<!-- HEADER SECTION -->
+<!-- ANIMATED HEADER -->
 <div align="center">
    <a href="https://github.com/arjunmb">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Welcome%20to%20my%20Universe&fontSize=60&fontColor=fff&animation=twinkling&desc=Where%20Code%20Meets%20Creativity&descSize=30&descAlignY=65&fontAlignY=45"/>
+      <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20&text=Arjun%20M%20B&desc=Senior%20Software%20Engineer&animation=fadeIn&fontColor=fff&fontSize=60&descSize=20&fontAlignY=40&descAlignY=55" width="100%"/>
    </a>
 
-   <!-- DYNAMIC NAME BANNER -->
+   <!-- ANIMATED TERMINAL EFFECT -->
    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+👋+I'm+Arjun+M+B;Senior+Developer;Cloud+Architect;Tech+Innovator" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=600&size=28&pause=1000&color=3BAFDA&center=true&vCenter=true&random=false&width=600&height=70&lines=%3E+npm+start+developer;%3E+Initializing+coding+mode...;%3E+Loading+tech+stack...;%3E+System+ready!" />
    </a>
 
-   <!-- TROPHY SECTION -->
-   <img src="https://github-profile-trophy.vercel.app/?username=arjunmb&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" alt="Trophy" align="center" />
-
-   <!-- SPOTIFY INTEGRATION -->
-   <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" width="300"/>
+   <!-- MATRIX ANIMATION -->
+   <a href="https://github.com/arjunmb">
+      <img src="https://github.com/platane/platane/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
+   </a>
 </div>
 
-<!-- ABOUT ME ANIMATED SECTION -->
+<!-- ANIMATED CODE WINDOW -->
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400" />
+</div>
+
+<!-- ANIMATED TOOLS & STACK -->
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+   <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100">
+   <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
+   <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="100">
+   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+</div>
+
+<!-- ANIMATED ABOUT SECTION -->
 <h2>
-   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40px" /> About Me
+   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" /> 
+   About Me
 </h2>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<!-- ANIMATED CODING GIF -->
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
-```typescript
-const ArjunMB: Developer = {
-    location: "India 🇮🇳",
-    pronouns: "He/Him 👨‍💻",
-    education: "Computer Science & Engineering 🎓",
-    currentFocus: "Cloud-Native Architecture 🚀",
-    funFact: "I debug with console.log and I'm proud of it! 😄",
-    
-    languages: [
-        "JavaScript", "TypeScript", "Python",
-        "Go", "Java", "Rust"
-    ],
-    
-    askMeAbout: [
-        "Web Development", "Cloud Architecture",
-        "DevOps", "System Design", "Open Source"
-    ],
-    
-    technologies: {
-        frontend: {
-            frameworks: ["React", "Next.js", "Vue"],
-            styling: ["Tailwind CSS", "Styled Components"],
-            state: ["Redux", "Zustand", "Jotai"]
-        },
-        backend: {
-            node: ["Express", "NestJS", "Fastify"],
-            python: ["FastAPI", "Django", "Flask"],
-            go: ["Gin", "Echo", "Fiber"]
-        },
-        cloud: ["AWS", "GCP", "Azure"],
-        devOps: ["Docker", "Kubernetes", "Terraform"],
-        databases: ["MongoDB", "PostgreSQL", "Redis"],
-        testing: ["Jest", "Cypress", "Playwright"]
+```javascript
+class SoftwareEngineer {
+    constructor() {
+        this.name = "Arjun M B";
+        this.role = "Senior Software Engineer";
+        this.codeIn = ["JavaScript", "Python", "Go", "Rust"];
+        this.challenge = "Building scalable distributed systems";
     }
-};
+
+    sayHi() {
+        console.log("Thanks for dropping by!");
+    }
+}
+
+// Initialize instance 🚀
+const me = new SoftwareEngineer();
+me.sayHi();
 ```
 
-<!-- ANIMATED TECH STACK -->
+<!-- ANIMATED TECH STACK WITH ICONS -->
 <h2>
-   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="40px" /> Tech Arsenal
+   <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="40" />
+   Technology Stack
 </h2>
 
 <div align="center">
-   <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,nodejs,express,nestjs,python,go,rust,java&perline=6&theme=dark" />
-   <br/>
-   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,mongodb,postgres,redis,git,github,linux&perline=6&theme=dark" />
+   <!-- Animated Skills Bar -->
+   <a href="https://github.com/arjunmb">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arjunmb&theme=radical&layout=compact&hide_border=true&bg_color=0D1117&title_color=3BAFDA" width="42%" />
+   </a>
 </div>
 
-<!-- GITHUB STATS -->
+<!-- ANIMATED METRICS -->
+<div align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunmb&theme=radical&hide_border=true&background=0D1117&stroke=3BAFDA&ring=3BAFDA&fire=FF6B6B&currStreakNum=3BAFDA&sideNums=3BAFDA&currStreakLabel=3BAFDA&sideLabels=3BAFDA&dates=777777" width="49%" />
+   <img src="https://github-readme-stats.vercel.app/api?username=arjunmb&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3BAFDA&icon_color=3BAFDA&text_color=FFFFFF" width="49%" />
+</div>
+
+<!-- ANIMATED CONTRIBUTION GRAPH -->
+<img src="https://raw.githubusercontent.com/arjunmb/arjunmb/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+<!-- ANIMATED PROJECTS -->
 <h2>
-   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="40px" /> GitHub Analytics
+   <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="40" />
+   Featured Projects
 </h2>
 
-<p align="center">
-   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arjunmb&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunmb&theme=radical&hide_border=true" />
-</p>
+<div align="center">
+   <!-- PROJECT CARDS WITH ANIMATION -->
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=arjunmb&repo=project1&theme=radical&hide_border=true&bg_color=0D1117&title_color=3BAFDA&icon_color=3BAFDA" width="49%" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=arjunmb&repo=project2&theme=radical&hide_border=true&bg_color=0D1117&title_color=3BAFDA&icon_color=3BAFDA" width="49%" />
+</div>
 
-<!-- CONTRIBUTION GRAPH -->
-<a href="https://github.com/arjunmb/github-readme-activity-graph">
-   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=arjunmb&theme=radical&hide_border=true&area=true" />
-</a>
-
-<!-- SNAKE ANIMATION -->
-<picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arjunmb/arjunmb/output/github-contribution-grid-snake-dark.svg" />
-   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arjunmb/arjunmb/output/github-contribution-grid-snake.svg" />
-   <img alt="Snake Animation" src="https://raw.githubusercontent.com/arjunmb/arjunmb/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<!-- FEATURED REPOSITORIES -->
+<!-- ANIMATED CODING ACTIVITY -->
 <h2>
-   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" width="40px" /> Featured Projects
+   <img src="https://user-images.githubusercontent.com/74038190/216124356-9c15b2bd-54a9-4584-8ee5-f6b4736333c4.png" width="40" /> 
+   Coding Activity
 </h2>
 
-<p align="center">
-   <a href="https://github.com/arjunmb/project1">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arjunmb&repo=project1&theme=radical&hide_border=true&show_icons=true" />
-   </a>
-   <a href="https://github.com/arjunmb/project2">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arjunmb&repo=project2&theme=radical&hide_border=true&show_icons=true" />
-   </a>
-</p>
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
 
-<!-- ACTIVITY METRICS with METRICS.LECOQ.IO -->
-<details>
-   <summary><h3>📊 Detailed GitHub Metrics</h3></summary>
-   <img src="https://metrics.lecoq.io/arjunmb?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&isocalendar=1&languages=1&lines=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Asia%2FKolkata" width="100%"/>
-</details>
-
-<!-- PRODUCTIVITY METRICS -->
-<details>
-   <summary><h3>⚡ Recent GitHub Activity</h3></summary>
-   
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/arjunmb/repo/pull/123)
-2. 👀 Reviewed PR [#456](https://github.com/arjunmb/repo/pull/456)
-3. 🚀 Published package v1.2.0
-4. 🐛 Fixed critical bug in main branch
-5. 📝 Updated documentation
-<!--END_SECTION:activity-->
-
-</details>
-
-<!-- CONNECT WITH ME -->
+<!-- ANIMATED CONNECT SECTION -->
 <h2>
-   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="40px" /> Connect With Me
+   <img src="https://user-images.githubusercontent.com/74038190/216126180-c5577a5f-1efe-4949-bfe8-7b5a321ab64b.png" width="40" /> 
+   Connect with Me
 </h2>
 
 <div align="center">
    <a href="https://linkedin.com/in/arjunmb">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
    </a>
    <a href="https://twitter.com/arjunmb">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-   </a>
-   <a href="https://arjunmb.dev">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+      <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100">
    </a>
    <a href="mailto:your.email@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d8-4924-b424-95fa70961a18.png" width="100">
    </a>
 </div>
 
-<!-- SUPPORT -->
+<!-- ANIMATED MUSIC SECTION -->
 <h2>
-   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Heart%20with%20Ribbon.png" width="40px" /> Support My Work
+   <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="40" />
+   Currently Vibing To
 </h2>
 
 <div align="center">
-   <a href="https://www.buymeacoffee.com/arjunmb">
-      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
-   </a>
+   <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID&count=1" width="400">
 </div>
 
-<!-- PROFILE VIEWS COUNTER -->
+<!-- ANIMATED FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&animation=fadeIn" width="100%"/>
+
+<!-- PROFILE VIEWS COUNTER WITH ANIMATION -->
 <div align="center">
-   <img src="https://komarev.com/ghpvs/?username=arjunmb&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views Counter" />
+   <img src="https://profile-counter.glitch.me/arjunmb/count.svg" alt="Visitor Count" />
 </div>
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
