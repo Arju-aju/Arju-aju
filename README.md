@@ -1,188 +1,153 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,24,36&animation=scaleIn&section=header&text=Arjun%20M%20B&fontSize=90&fontColor=fff&fontAlignY=35&desc=Turning%20Ideas%20into%20Digital%20Reality&descSize=22&descAlignY=55&stroke=fff&strokeWidth=2)
+<!-- Animated Header with SVG Animation -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=24&height=300&section=header&text=Arjun%20M%20B&desc=Full%20Stack%20Developer&animation=fadeIn&fontSize=90&fontAlignY=38&descSize=25&descAlignY=58&rotate=0">
 
-<div style="display: inline-block;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=120&lines=MERN+Stack+Developer+%F0%9F%9A%80;Instrumentation+Expert+%F0%9F%94%A7;Innovation+Enthusiast+%F0%9F%92%A1" alt="Typing SVG" />
-  </a>
-  <img width="50%" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
+<!-- Typing Animation with Tech Stack -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Goldman&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&separator=♦&lines=MERN+Stack+Developer♦Cloud+Solutions+Architect♦Tech+Innovation+Expert" alt="Typing SVG" /></a>
+
+<!-- Animated Tech Stack Section -->
+<div align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="70">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="70">
 </div>
 
-<!-- Contribution Snake Animation -->
+<!-- Dynamic Contribution Snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arjunmb/arjunmb/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arjunmb/arjunmb/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arjunmb/arjunmb/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
+<!-- Animated Profile Views Counter -->
 <div align="center">
-  
-[![Profile Views](https://komarev.com/ghpvs/?username=arjunmb&color=blueviolet&style=for-the-badge&label=Profile+Views)](https://github.com/arjunmb)
-[![Years Badge](https://badges.pufler.dev/years/arjunmb?style=for-the-badge&color=blue)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/arjunmb?style=for-the-badge&color=success)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/arjunmb?style=for-the-badge&color=red)](https://badges.pufler.dev)
-  
+  <img src="https://komarev.com/ghpvs/?username=arjunmb&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<!-- Animated About Me Section -->
+<h2>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  About Me
+</h2>
 
-## 💫 About Me
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
 
-```typescript
-interface ISkillSet {
-    languages: string[];
-    frameworks: string[];
-    databases: string[];
-    tools: string[];
-}
-
-class Developer {
-    private name: string;
-    private title: string;
-    private location: string;
-    private skills: ISkillSet;
-
-    constructor() {
-        this.name = "Arjun M B";
-        this.title = "Full Stack Developer";
-        this.location = "🌍 Available for Remote Work";
-        this.skills = {
-            languages: ["JavaScript", "TypeScript", "Python", "SQL"],
-            frameworks: ["React", "Node.js", "Express", "Next.js"],
-            databases: ["MongoDB", "PostgreSQL", "Redis"],
-            tools: ["Docker", "AWS", "Git", "Linux"]
-        };
-    }
-
-    public sayHi(): void {
-        console.log(`
-            🚀 Welcome to my GitHub! 
-            💻 Let's build something extraordinary together!
-            📫 Reach out: your.email@gmail.com
-        `);
-    }
-
-    public getCurrentChallenges(): string[] {
-        return [
-            "Mastering System Design",
-            "Building Scalable Microservices",
-            "Contributing to Open Source"
-        ];
-    }
-}
-
-// Initialize Developer
-const arjun = new Developer();
-arjun.sayHi();
+```javascript
+const aboutMe = {
+    pronouns: "he" | "him",
+    code: ["JavaScript", "TypeScript", "Python", "Go"],
+    askMeAbout: ["web dev", "tech", "cloud", "architecture"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js", "Redux"],
+            css: ["Tailwind", "SASS", "Styled Components"]
+        },
+        backEnd: {
+            js: ["Node", "Express", "NestJS"],
+            python: ["Django", "FastAPI"],
+            go: ["Gin", "Echo"]
+        },
+        devOps: ["AWS", "Docker", "Kubernetes", "Terraform"],
+        databases: ["MongoDB", "PostgreSQL", "Redis"],
+        misc: ["GraphQL", "Socket.IO", "WebRTC"]
+    },
+    currentFocus: "Building scalable cloud-native applications",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
 ```
 
-## 🎯 Skills & Expertise
+<!-- Animated Skills Section -->
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px"/>
+  My Skills
+</h2>
 
 <div align="center">
-<details open>
-<summary><b>📱 Frontend Mastery</b></summary>
-<br>
-
-![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next,tailwind,webpack&theme=dark&perline=9)
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend Arsenal</b></summary>
-<br>
-
-![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,redis,graphql,nginx,docker,kubernetes&theme=dark&perline=9)
-
-</details>
-
-<details open>
-<summary><b>🛠️ DevOps & Cloud</b></summary>
-<br>
-
-![DevOps Skills](https://skillicons.dev/icons?i=git,github,aws,gcp,azure,linux,bash,jenkins,terraform&theme=dark&perline=9)
-
-</details>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,postgres,redis,docker,kubernetes,aws&perline=6&theme=dark" />
+  
+  <!-- Animated Skill Progress Bars -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arjunmb&theme=react&line_height=40&hide=css&layout=compact"/>
 </div>
 
-## 📊 GitHub Metrics
+<!-- Animated Stats Section -->
+<h2>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"/>
+  Statistics
+</h2>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arjunmb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&ring_color=4F94EF&title_color=4F94EF"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunmb&theme=tokyonight&hide_border=true&fire=4F94EF&ring=4F94EF&currStreakLabel=4F94EF"/>
-</div>
+<p align="center">
+  <a href="https://github.com/arjunmb">
+    <img src="https://github-stats-alpha.vercel.app/api?username=arjunmb&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+  </a>
+</p>
 
-<div align="center">
-  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arjunmb&layout=compact&theme=tokyonight&hide_border=true&title_color=4F94EF"/>
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arjunmb&theme=tokyonight&hide_border=true"/>
-</div>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=arjunmb&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF"/>
+  </a>
+</p>
 
-## 🌱 Learning Roadmap
+<!-- 3D Contribution Calendar -->
+![3D Contribution Calendar](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<div align="center">
+<!-- Animated Project Section -->
+<h2>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/>
+  Featured Projects
+</h2>
 
-```mermaid
-mindmap
-  root((2024 Goals))
-    Cloud Native
-      Kubernetes 🎯
-      Service Mesh
-      GitOps
-    Architecture
-      System Design
-      Event-Driven
-      Microservices
-    AI/ML
-      TensorFlow
-      PyTorch
-      MLOps
-    Web3
-      Smart Contracts
-      DeFi
-      dApps
-```
+<p align="center">
+  <a href="https://github.com/arjunmb/project1">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arjunmb&repo=project1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project 1">
+  </a>
+  <a href="https://github.com/arjunmb/project2">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arjunmb&repo=project2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project 2">
+  </a>
+</p>
 
-</div>
+<!-- Animated Connect Section -->
+<h2>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+  Let's Connect
+</h2>
 
-## 🔥 Featured Projects
+<p align="center">
+  <a href="https://linkedin.com/in/arjunmb">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://twitter.com/arjunmb">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-<div align="center">
-<a href="https://github.com/arjunmb/project1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arjunmb&repo=project1&theme=radical&hide_border=true&show_owner=true&title_color=4F94EF&icon_color=4F94EF" />
-</a>
-<a href="https://github.com/arjunmb/project2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arjunmb&repo=project2&theme=radical&hide_border=true&show_owner=true&title_color=4F94EF&icon_color=4F94EF" />
-</a>
-</div>
+<!-- Animated Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arjunmb&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
-## 🤝 Let's Connect
+<!-- Spotify Now Playing -->
+<h2>
+  <img src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" width="30"/>
+  Spotify Playing
+</h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arjunmb)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/arjunmb)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://arjunmb.com)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arjunmb)
-
-</div>
-
-## 🎵 Currently Vibing To
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=4F94EF&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-</div>
-
-<div align="center">
-
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
-
-<!-- Footer Wave -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=Let's%20Code%20Something%20Amazing!&fontSize=24&fontColor=fff&animation=twinkling&color=gradient&customColorList=12,24,36)
