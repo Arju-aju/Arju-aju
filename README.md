@@ -1,153 +1,78 @@
-<!-- ANIMATED TERMINAL HEADER -->
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">Hi 👋, I'm Pavin Das</h1>
+<h3 align="center">PenTester</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PavinDas&label=Profile%20views&color=0e75b6&style=flat" alt="PavinDas" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PavinDas&theme=dracula" alt="PavinDas" /></a> </p>
+
+- 🔭 I’m currently working on [ChatZon AI](https://github.com/PavinDas/ChatZonAI)
+- 👯 I’m looking to collaborate on [ChatZon AI](https://github.com/PavinDas/ChatZonAI)
+- 🌱 I’m currently learning **Automation**
+- 💬 Ask me about **Material & Cupertino**
+- 📫 <a href="https://pavindas.carrd.co">Click here to reach me</a>
+- 👨‍💻 <a href="https://github.com/PavinDas?tab=repositories">Click here to see all of my projects</a>
+- ⚡ Fun fact: **I quit Flutter 😂**
+- 📸 <a href="https://instagram.com/le_edwarebian">Click here to see my photography works</a>
+
+<div> <a href="https://twitter.com/pavin__das" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/pavin-das" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/PavinDas" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/pavin__das" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:pavindas.carrd.co"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/pavin__das" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="pavin__das" height="30" width="40" /></a><a href="https://linkedin.com/in/pavin-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="pavin-das" height="30" width="40" /></a><a href="https://fb.com/pavin.das.y" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="pavin.das.y" height="30" width="40" /></a><a href="https://www.youtube.com/c/EDWAREBIANCREATIONS" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="EDWAREBIANCREATIONS" height="30" width="40" /></a><a href="https://stackoverflow.com/users/22161270" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="22161270" height="30" width="40" /></a><a href="https://instagram.com/pavin__das" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="pavin__das" height="30" width="40" /></a></p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/appwriteio-icon.svg" alt="Appwrite" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/gnu_bash-icon.svg" alt="Gnu Bash" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/sqlite-icon.svg" alt="Sqlite" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe_illustrator-icon%20(1).svg" alt="Adobe Illustrator" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
+</p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/pavindas"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="pavindas" /></a></p><br><br>
+
+<h3 align="left">Stars</h3>
+<img align="left" height="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavinDas&langs_count=8&theme=dracula" alt=PavinDas />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=PavinDas&show_icons=true&locale=en&theme=dracula" alt="PavinDas" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PavinDas&theme=dracula" alt="PavinDas" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-   <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=root%40arjunmb%3A~%23&fontSize=40&fontColor=3BAFDA&animation=fadeIn" width="100%"/>
-
-   <!-- ANIMATED CONSOLE -->
-   ```console
-   root@arjunmb:~# ./initialize_profile.sh
-   [■■■■■■■■■■■■■■■■■■■■] 100%
-   Successfully loaded developer profile!
-   ```
-
-   <!-- ANIMATED TYPEWRITER -->
-   <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=30&duration=2500&pause=1000&color=6AAAEA&center=true&vCenter=true&random=false&width=600&lines=Senior+Software+Engineer;Cloud+Architect;DevOps+Expert;System+Design+Enthusiast;%7B%22status%22%3A+%22coding...%22%7D" />
-   </a>
+<a href="https://github.com/PavinDas">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PavinDas&theme=darcula" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PavinDas&theme=darcula" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PavinDas&theme=darcula" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PavinDas&theme=darcula" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PavinDas&theme=dracula" height="180em" />
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=PavinDas&theme=dracula"/>
 
-<!-- 3D CONTRIBUTION ANIMATION -->
-<img src="https://github.com/arjunmb/arjunmb/blob/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Animation"/>
-
-<!-- ANIMATED WAVES -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
-
-<!-- MATRIX CODE ANIMATION -->
-<div align="center">
-   <img src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="400"/>
-</div>
-
-<!-- ANIMATED SKILL TREE -->
-<h2>
-   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
-   Technical Universe
-</h2>
-
-mermaid
-mindmap
-  root((Skills))
-    Frontend
-      React/Next.js
-        Redux
-        GraphQL
-      Vue.js
-        Vuex
-      Angular
-    Backend
-      Node.js
-        Express
-        NestJS
-      Python
-        Django
-        FastAPI
-      Go
-        Gin
-        Fiber
-    DevOps
-      Docker
-      Kubernetes
-      Terraform
-    Database
-      MongoDB
-      PostgreSQL
-      Redis
-    Cloud
-      AWS
-      GCP
-      Azure
-
-
-<!-- ANIMATED TECH STACK -->
-<div align="center">
-   <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,angular,nodejs,py,go,rust&perline=5&theme=dark" />
-   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,mongodb,postgres,redis,git,linux&perline=5&theme=dark" />
-</div>
-
-<!-- LIVE CODING ANIMATION -->
-<div align="center">
-   <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400" />
-</div>
-
-<!-- ANIMATED STATS WITH NEW COLOR SCHEME -->
-<div align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunmb&theme=radical&hide_border=true&background=0D1117&stroke=6AAAEA&ring=6AAAEA&fire=FF6B6B&currStreakNum=6AAAEA&sideNums=6AAAEA&currStreakLabel=6AAAEA&sideLabels=6AAAEA&dates=777777" width="49%" />
-   <img src="https://github-readme-stats.vercel.app/api?username=arjunmb&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6AAAEA&icon_color=6AAAEA&text_color=FFFFFF" width="49%" />
-</div>
-
-<!-- ANIMATED ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arjunmb&custom_title=Contribution%20Graph&bg_color=0D1117&color=6AAAEA&line=6AAAEA&point=FFFFFF&area_color=6AAAEA&area=true&hide_border=true" width="100%"/>
-
-<!-- INTERACTIVE PROJECTS SHOWCASE -->
-<h2>
-   <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d8-4924-b424-95fa70961a18.png" width="30" />
-   Featured Projects
-</h2>
-
-<div align="center" style="display: flex; gap: 10px;">
-   <!-- PROJECT CARDS WITH HOVER ANIMATION -->
-   <a href="https://github.com/arjunmb/project1">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=arjunmb&repo=project1&theme=radical&hide_border=true&bg_color=0D1117&title_color=6AAAEA&icon_color=6AAAEA" width="49%" />
-   </a>
-   <a href="https://github.com/arjunmb/project2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=arjunmb&repo=project2&theme=radical&hide_border=true&bg_color=0D1117&title_color=6AAAEA&icon_color=6AAAEA" width="49%" />
-   </a>
-</div>
-
-<!-- TECH RADAR VISUALIZATION -->
-<h2>
-   <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="30" />
-   Technology Radar
-</h2>
-
-mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'fontSize': '16px'}}}%%
-pie showData
-    title Technologies I Work With
-    "Frontend" : 30
-    "Backend" : 25
-    "DevOps" : 20
-    "Cloud" : 15
-    "Database" : 10
-
-
-<!-- ANIMATED CODING METRICS -->
-<div align="center">
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arjunmb&theme=radical&utcOffset=8" width="49%"/>
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arjunmb&theme=radical" width="49%"/>
-</div>
-
-<!-- INTERACTIVE SOCIAL LINKS -->
-<h2>
-   <img src="https://user-images.githubusercontent.com/74038190/216126180-c5577a5f-1efe-4949-bfe8-7b5a321ab64b.png" width="30" />
-   Connect with Me
-</h2>
-
-<div align="center">
-   <!-- ANIMATED SOCIAL ICONS -->
-   <a href="https://linkedin.com/in/arjunmb"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80"></a>
-   <a href="https://twitter.com/arjunmb"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="80"></a>
-   <a href="https://github.com/arjunmb"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="80"></a>
-   <a href="mailto:your.email@gmail.com"><img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d8-4924-b424-95fa70961a18.png" width="80"></a>
-</div>
-
-<!-- SPOTIFY INTEGRATION WITH ANIMATION -->
-<div align="center">
-   <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=0D1117&interchange=true&bar_color=6AAAEA" width="300"/>
-</div>
-
-<!-- ANIMATED WAVES FOOTER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-<!-- PROFILE VIEWS COUNTER -->
-<div align="center">
-   <img src="https://komarev.com/ghpvs/?username=arjunmb&style=for-the-badge&color=6AAAEA" />
-</div>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
